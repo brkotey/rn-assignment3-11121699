@@ -12,7 +12,7 @@ Frame1: This component is  in charge of rendering a certain frame or area within
 
 
 Screenshot:
-![App](./screenshot11.jpg)
+![App](./C:\Users\User\rn-assignment3-11121699\screenshot11.jpg)
 
 
 ID: 11121699
